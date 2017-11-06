@@ -1,2 +1,5 @@
 # uvod_PB1
-uvod v GitHub
+
+Uvod v GitHub
+
+Kopija repozitorija - uvod v GitHub
