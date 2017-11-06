@@ -2,4 +2,4 @@
 
 Uvod v GitHub
 
-Kopija repozitorija - uvod v GitHub
+Kopija repozitorija - uvod v GitHub, commit
